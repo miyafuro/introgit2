@@ -1,2 +1,5 @@
 1.初めてのぎっと
 2.その２を追加
+  git add
+  git commit
+
